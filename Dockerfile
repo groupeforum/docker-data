@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM debian:jessie
 
 MAINTAINER Florian Girardey <florian@girardey.net>
 
